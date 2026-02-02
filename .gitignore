@@ -1,0 +1,15 @@
+# Build / IDE
+vc140.pdb
+*.o
+*.obj
+*.exe
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
