@@ -1,0 +1,12 @@
+2
+5 2 2
+BurgerPalace 10 2
+Beef 7 5
+Zinger 15 8
+PizzaPlanet 18 1
+Tikka 21 5
+5 2 1
+CurryHouse 10 3
+Chicken 2 7
+ButterChicken 18 5
+Biryani 15 2
