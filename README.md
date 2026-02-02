@@ -319,16 +319,6 @@ The following shortcomings have been identified; addressing them would improve c
 - C++ compiler (e.g. g++, clang++, or MSVC)
 - C++11 or later; standard library only
 
-## Grading Criteria Fulfillment
-
-✅ **Graph Creation (10 marks)**: Complete adjacency list representation with efficient traversal  
-✅ **Input Handling (10 marks)**: Robust parsing with comprehensive validation  
-✅ **Solution (30 marks)**: Well-documented greedy algorithm with clear justification  
-✅ **Output Generation (10 marks)**: Clear, formatted output matching requirements  
-✅ **Code Organization (10 marks)**: Modular classes, meaningful names, detailed comments  
-✅ **Robustness (10 marks)**: Extensive error handling, graceful failure modes  
-✅ **Efficiency (10 marks)**: Polynomial time complexity, optimized data structures  
-
 ## Author Notes
 
 This implementation prioritizes:
